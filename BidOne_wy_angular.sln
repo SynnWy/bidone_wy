@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "BidOne_wy_angular", "BidOne_wy_angular\BidOne_wy_angular.esproj", "{5F244E61-6633-4386-806D-8D24C16B7FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidOne_wy_backend", "BidOne_wy_backend\BidOne_wy_backend.csproj", "{65F1B198-5A77-47A8-811A-1210BAA9350E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F244E61-6633-4386-806D-8D24C16B7FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F244E61-6633-4386-806D-8D24C16B7FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F244E61-6633-4386-806D-8D24C16B7FA4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5F244E61-6633-4386-806D-8D24C16B7FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F244E61-6633-4386-806D-8D24C16B7FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F244E61-6633-4386-806D-8D24C16B7FA4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{65F1B198-5A77-47A8-811A-1210BAA9350E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F1B198-5A77-47A8-811A-1210BAA9350E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F1B198-5A77-47A8-811A-1210BAA9350E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F1B198-5A77-47A8-811A-1210BAA9350E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63165F4C-EEB7-4E8D-8CDD-A2C33607A62C}
+	EndGlobalSection
+EndGlobal
